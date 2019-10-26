@@ -1,0 +1,11 @@
+G:\ConsoleAppCqrs\ConsoleAppCqrs\bin\Debug\netcoreapp3.0\ConsoleAppCqrs.exe
+G:\ConsoleAppCqrs\ConsoleAppCqrs\bin\Debug\netcoreapp3.0\ConsoleAppCqrs.deps.json
+G:\ConsoleAppCqrs\ConsoleAppCqrs\bin\Debug\netcoreapp3.0\ConsoleAppCqrs.runtimeconfig.json
+G:\ConsoleAppCqrs\ConsoleAppCqrs\bin\Debug\netcoreapp3.0\ConsoleAppCqrs.runtimeconfig.dev.json
+G:\ConsoleAppCqrs\ConsoleAppCqrs\bin\Debug\netcoreapp3.0\ConsoleAppCqrs.dll
+G:\ConsoleAppCqrs\ConsoleAppCqrs\bin\Debug\netcoreapp3.0\ConsoleAppCqrs.pdb
+G:\ConsoleAppCqrs\ConsoleAppCqrs\obj\Debug\netcoreapp3.0\ConsoleAppCqrs.csprojAssemblyReference.cache
+G:\ConsoleAppCqrs\ConsoleAppCqrs\obj\Debug\netcoreapp3.0\ConsoleAppCqrs.AssemblyInfoInputs.cache
+G:\ConsoleAppCqrs\ConsoleAppCqrs\obj\Debug\netcoreapp3.0\ConsoleAppCqrs.AssemblyInfo.cs
+G:\ConsoleAppCqrs\ConsoleAppCqrs\obj\Debug\netcoreapp3.0\ConsoleAppCqrs.dll
+G:\ConsoleAppCqrs\ConsoleAppCqrs\obj\Debug\netcoreapp3.0\ConsoleAppCqrs.pdb

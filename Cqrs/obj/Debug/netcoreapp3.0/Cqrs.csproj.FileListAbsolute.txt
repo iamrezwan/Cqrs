@@ -1,0 +1,11 @@
+G:\Cqrs\Cqrs\obj\Debug\netcoreapp3.0\Cqrs.csprojAssemblyReference.cache
+G:\Cqrs\Cqrs\obj\Debug\netcoreapp3.0\Cqrs.AssemblyInfoInputs.cache
+G:\Cqrs\Cqrs\obj\Debug\netcoreapp3.0\Cqrs.AssemblyInfo.cs
+G:\Cqrs\Cqrs\bin\Debug\netcoreapp3.0\Cqrs.exe
+G:\Cqrs\Cqrs\bin\Debug\netcoreapp3.0\Cqrs.deps.json
+G:\Cqrs\Cqrs\bin\Debug\netcoreapp3.0\Cqrs.runtimeconfig.json
+G:\Cqrs\Cqrs\bin\Debug\netcoreapp3.0\Cqrs.runtimeconfig.dev.json
+G:\Cqrs\Cqrs\bin\Debug\netcoreapp3.0\Cqrs.dll
+G:\Cqrs\Cqrs\bin\Debug\netcoreapp3.0\Cqrs.pdb
+G:\Cqrs\Cqrs\obj\Debug\netcoreapp3.0\Cqrs.dll
+G:\Cqrs\Cqrs\obj\Debug\netcoreapp3.0\Cqrs.pdb
